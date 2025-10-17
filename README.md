@@ -1,6 +1,5 @@
 
-# Adaptive LLM Pruning (GPU version)
-
+# Adaptive LLM Pruning
 This repository demonstrates **adaptive pruning** and **reactivation bursts** on a small language model (DistilGPT-2) using PyTorch and Hugging Face.
 
 ## Key Features
